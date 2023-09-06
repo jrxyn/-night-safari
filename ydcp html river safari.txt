@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Night Safari Data Visualitsation</title>
+</head>
+
+<body>
+   <a href=" https://www.mandai.com/en/night-safari.html
+" target="_blank">
+<img src=" https://i.ibb.co/jb1xTMh/night-safari-logo.png">
+</a>
+</body>
+<h1>Night Safari Visitors</h1>
+<h2>Problem statement</h2>
+<p>In 2020, the world's first nocturnal zoo, the <b><i>Night Safari</li></b> in Singapore, attracted <b>approximately</b> 343 thousand visitors. The Night Safari is part of the four wildlife-centered leisure attractions in Singapore, which includes the:</p>
+<ul>
+    <li><a href=" https://www.mandai.com/en/singaporezoo.html 
+" target="_blank">Singapore Zoo</a><br><ul><li>Zebra</li>
+<li>Monkey</li>
+<li>Polar bear</li></ul></li>
+    <li><a href=" https://www.mandai.com/en/jurong-bird-park.html 
+" target="_blank">Jurong Birdpark</a><br><ul><li>Parrot</li>
+<li>Owl</li>
+<li>Eagle</li></ul></li>
+    <li><a href=" https://www.mandai.com/en/river-wonders.html 
+" target="_blank">River Safari</a><br><ul><li>Panda</li>
+<li>Red Panda</li></ul></li>
+</ul>
+<p>Due to the COVID-19 pandemic, the Night Safari was closed from April to June 2020, and has since  then operated at limited capacity under safety measures. 
+
+<br><br>The following table shows the number of visitors to Night Safari from 2011 to 2020. 
+<table border="1">
+            <th>Year</th>
+            <th>No. of visitors (in thousands)</th>
+        </tr>
+        <tbody>
+            <tr>
+                <td>2011</td>
+                <td>1098.5</td>
+            </tr>
+             <tr>
+                <td>2012</td>
+                <td>1163.4</td>
+            </tr>
+             <tr>
+                <td>2013</td>
+                <td>1168</td>
+            </tr>
+             <tr>
+                <td>2014</td>
+                <td>1179.8</td>
+            </tr>
+             <tr>
+                <td>2015</td>
+                <td>1159</td>
+            </tr>
+             <tr>
+                <td>2016</td>
+                <td>1150.5</td>
+            </tr>
+             <tr>
+                <td>2017</td>
+                <td>1261.8</td>
+            </tr>
+             <tr>
+                <td>2018</td>
+                <td>1329.4</td>
+            </tr>
+             <tr>
+                <td>2019</td>
+                <td>1318</td>
+            </tr>
+             <tr>
+                <td>2020</td>
+                <td>343.2</td>
+            </tr>
+        </tbody>
+    </thead>
+</table border>
+</table>
+<h2>Visualisation</h2>
+<img src= " https://i.ibb.co/dMSgMNf/barchart.png">
+<p>Copyright &copy; yong zhi</p>
+<p>Web Programming Workshop</p>
+
+</html>
